@@ -4,4 +4,4 @@
 
 # <a name="id0"></a>Analyzing survival probability on the Titanic 
 
-Next data science related topic is concerned with ....? 
+Below is the link to a Notebook which outlines my approach with regards to the legendary Titanic ML competition on Kaggle. 
