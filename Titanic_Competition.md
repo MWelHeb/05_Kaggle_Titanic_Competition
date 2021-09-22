@@ -4,5 +4,5 @@
 
 # <a name="id0"></a>Analyzing survival probability on the Titanic 
 
-Below is the link to a Notebook which outlines my approach with regards to the legendary Titanic ML competition on Kaggle. 
+Below is the link to a Notebook which outlines my approach with regards to the legendary Titanic ML competition on Kaggle (Remark: not yet finished). 
  - [Titanic Competition](https://github.com/MWelHeb/05_Kaggle_Titanic_Competition/blob/main/Titanic_data_set.ipynb)
